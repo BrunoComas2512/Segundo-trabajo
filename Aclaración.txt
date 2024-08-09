@@ -1,0 +1,4 @@
+Buenas noches, queria aclarar que no pude poner los archivos .html en una carpeta aparte ni el css por que se me desconfiguraba y no podia enlazar los archivos entre si. 
+Las imaganes pude ponerlas en una carpeta por separado, pero los archivos no.
+También se que utilice el footer con imagenes o sector para "iniciar sesión" pero es de la manera que me gustaba que quedara, si mi calificación va a ser afectada por todo eso, soy consciente de ello.
+Muchas gracias!!

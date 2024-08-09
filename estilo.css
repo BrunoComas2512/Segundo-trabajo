@@ -1,0 +1,130 @@
+header {
+    background-color: #2E4270;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+
+header img {
+    width: 28%;
+    
+}
+
+/*titulo*/
+
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+.tittle {
+    text-align: center;
+    background-color: #638233;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 45px;
+}
+
+
+/* Main-general */
+
+.main-general {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.parrafo-uno {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline
+}
+
+main p span{
+    background-color: gold;
+}
+
+/*Iframes*/
+
+.iframes{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2E4270;
+    padding: 20px;
+
+}
+
+/* Footer */
+.Subtitulo-iniciose{
+    display: flex;
+    justify-content: center;
+}
+
+.sub{
+    background-color: #638233;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+footer form label {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.terminos{
+    display: flex;
+    justify-content: center;
+}
+
+.terminos-p{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
+
+nav a{
+    text-decoration: none;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+footer img {
+    width: 3%;
+}
+
+/* html de argvscan - argvsper - cuartos */ 
+
+Main .argvscanp {
+    font-size: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: bold;
+
+}
+
+footer  h2 {
+    background-color: #638233;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25px;
+}
+
+footer nav a img{
+    width: 15%;
+}
+
+/* html de argvschi */
+
+main .argvschip {
+    font-size: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: bold;
+}
+
+main p .o1 {
+    background-color: lightblue;
+}
+
+main p br .o2 {
+    background-color: yellow;
+}
+
+main p br .o1{
+    background-color: lightblue;
+}
+
